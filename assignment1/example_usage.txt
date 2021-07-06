@@ -1,0 +1,42 @@
+bash-3.2$ python3
+Python 3.9.0 (v3.9.0:9cf6752276, Oct  5 2020, 11:29:23) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from assignment1 import menu
+>>> menu()
+
+MAIN MENU
+1. Check if input is perfect cube
+2. Generate perfect cubes within a range
+3. Find the smallest perfect cube whose exactly 3 permutations are also cubes
+4. Exit
+Enter Choice: 1
+Enter an integer between 1 and 1e12: 27
+27 is a valid cube
+
+MAIN MENU
+1. Check if input is perfect cube
+2. Generate perfect cubes within a range
+3. Find the smallest perfect cube whose exactly 3 permutations are also cubes
+4. Exit
+Enter Choice: 2
+Enter the starting integer of range (min is 1): 1
+Enter the ending integer of range (max is 1e12): 1000
+Perfect cubes in the given range are 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000
+
+MAIN MENU
+1. Check if input is perfect cube
+2. Generate perfect cubes within a range
+3. Find the smallest perfect cube whose exactly 3 permutations are also cubes
+4. Exit
+Enter Choice: 3
+Takes a while running for the first time
+41063625
+
+MAIN MENU
+1. Check if input is perfect cube
+2. Generate perfect cubes within a range
+3. Find the smallest perfect cube whose exactly 3 permutations are also cubes
+4. Exit
+Enter Choice: 4
+>>> 

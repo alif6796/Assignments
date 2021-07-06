@@ -1,0 +1,1 @@
+Assignment 1 provides a menu-based program to execute the required functions. All modules are imported from the standard library so there are no dependencies. Refer to example_usage.txt for more info.

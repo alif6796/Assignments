@@ -1,0 +1,61 @@
+bash-3.2$ python3
+Python 3.9.0 (v3.9.0:9cf6752276, Oct  5 2020, 11:29:23) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from assignment2 import menu
+>>> menu()
+
+MAIN MENU
+1. Word lookup though simple caching
+2. Word lookup through LRU caching
+3. Exit
+Enter Choice: 1
+Enter word to find meaning and synonyms for: car
+
+car
+n 1: a motor vehicle with four wheels; usually propelled by an
+internal combustion engine; "he needs a car to get to work"
+[syn: {car}, {auto}, {automobile}, {machine}, {motorcar}]
+2: a wheeled vehicle adapted to the rails of railroad; "three
+cars had jumped the rails" [syn: {car}, {railcar}, {railway
+car}, {railroad car}]
+3: the compartment that is suspended from an airship and that
+carries personnel and the cargo and the power plant [syn:
+{car}, {gondola}]
+4: where passengers ride up and down; "the car was on the top
+floor" [syn: {car}, {elevator car}]
+5: a conveyance for passengers or freight on a cable railway;
+"they took a cable car to the top of the mountain" [syn:
+{cable car}, {car}]
+
+
+MAIN MENU
+1. Word lookup though simple caching
+2. Word lookup through LRU caching
+3. Exit
+Enter Choice: 2
+Enter word to find meaning and synonyms for: car
+
+car
+n 1: a motor vehicle with four wheels; usually propelled by an
+internal combustion engine; "he needs a car to get to work"
+[syn: {car}, {auto}, {automobile}, {machine}, {motorcar}]
+2: a wheeled vehicle adapted to the rails of railroad; "three
+cars had jumped the rails" [syn: {car}, {railcar}, {railway
+car}, {railroad car}]
+3: the compartment that is suspended from an airship and that
+carries personnel and the cargo and the power plant [syn:
+{car}, {gondola}]
+4: where passengers ride up and down; "the car was on the top
+floor" [syn: {car}, {elevator car}]
+5: a conveyance for passengers or freight on a cable railway;
+"they took a cable car to the top of the mountain" [syn:
+{cable car}, {car}]
+
+
+MAIN MENU
+1. Word lookup though simple caching
+2. Word lookup through LRU caching
+3. Exit
+Enter Choice: 3
+>>> 
